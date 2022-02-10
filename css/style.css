@@ -1,0 +1,44 @@
+.navbar {
+    padding: auto;
+  letter-spacing: 2px;
+  border-spacing: 30px;
+}
+ul {
+    list-style-type: none;
+    list-style-position: inside;
+    display: inline-block;
+    text-align:left;  
+}
+li {
+   border-bottom: 10px solid black ;
+    float:left;
+}
+li a {
+    display: inline-block;
+    color: blue;
+    text-decoration: none;
+    font-family: fantasy;
+    width: 200px;
+    text-align: center;
+    padding:10px;
+}
+a:hover {
+    font-weight: bolder;
+}
+.aktif {
+    background-color:gray ;
+    border-bottom: 8px solid black;
+}
+body {
+    background-color: white;
+    font-family: monospace;
+}
+p {
+    
+    font-size: 18px;
+}
+.baslik1 {
+    color:red;
+    font-size:45px;
+    
+}
